@@ -1,0 +1,48 @@
+body{
+
+    background: linear-gradient(to top, rgb(0,0,0,0.5)50%, rgb(0,0,0,0.5)50%), url('img/bg.jpg') ;
+}
+.nav-link{
+    color: white !important;
+    font-size: 25px;
+}
+.navbar-nav .active{
+    font-weight: bold !important;
+}
+
+
+.navbar-brand{
+    color: #fc7502 !important;
+    font-size: 45px;
+    font-weight: bold;
+}
+.navbar-collapse{
+    margin-left: 300px;
+}
+.text-satu{
+    color: white !important;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.text-dua{
+    color: white !important;
+    font-size: 30px;
+    margin-bottom: 0px;
+
+}
+.text-tiga{
+    color: #fc7502 !important;
+    font-size: 50px;
+    font-weight: bold;
+}
+.text-empat{
+    color: white !important;
+}
+
+.btn{
+    background-color: #fc7502 !important;
+    border-color:  #fc7502 !important; ;
+    color: white;
+    padding: 10px;
+
+}
